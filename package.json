@@ -1,0 +1,29 @@
+{
+  "name": "sistema-de-pizzaria",
+  "version": "0.0.1",
+  "description": "Sistema de Pizzaria",
+  "main": "src/server/server.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathlun/Sistema-De-Pizzaria.git"
+  },
+  "keywords": [
+    "SysPizza",
+    "PizzaSystem",
+    "SistemaDePizzaria"
+  ],
+  "author": "Matheus Luna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathlun/Sistema-De-Pizzaria/issues"
+  },
+  "homepage": "https://github.com/mathlun/Sistema-De-Pizzaria#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
